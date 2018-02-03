@@ -1,4 +1,4 @@
-# HotelReservationSystem
+# SmartBookings
 Hotel Reservation (Enterprise Web Application Project)
 
 Online Hotel Reservation website which allows customers to register/login, search and book hotels in different cities.
